@@ -1,0 +1,13 @@
+.{
+    .name = "dotenv",
+    .version = "0.1.1",
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+        "examples",
+        "testdata",
+        "LICENSE",
+        "README.md",
+    },
+}
